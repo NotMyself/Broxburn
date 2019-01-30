@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+echo "Starting WebAPI & React"
+
+dotnet run --project api/
